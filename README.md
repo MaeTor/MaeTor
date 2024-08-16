@@ -23,9 +23,9 @@
 | <img src="https://github.com/ParrotSec/parrot-themes/blob/master/icons/parrot-logo.png" title="ParrotOS" alt="ParrotOS" width="55" height="55"/>
 |
 
-Last update on Sun Sep 15 2024
+Last update on Sun Sep 16 2024
 
-**108 days before 2025 ⏱**
+**108 days before 2025 ⏱** days before new year
 
 🤖 This README.md is updated with hate, by Rico !
 
