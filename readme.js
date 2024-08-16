@@ -42,8 +42,7 @@ module.exports += `
 `;
 
 module.exports += `
-🤖 This README.md is updated with <#rico_signing>
+<#rico_signing>
 `;
-module.exports += `
-`;
+
 
