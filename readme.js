@@ -38,7 +38,7 @@ Last update on <#today_date>
 `;
 
 module.exports += `
-**<#day_before_new_years>**
+<#days_before_new_years> days before new years
 `;
 
 module.exports += `
@@ -46,6 +46,4 @@ module.exports += `
 `;
 module.exports += `
 `;
-
-module.exports = module.exports.replace("<#today_date>", getTodayDate());
 
