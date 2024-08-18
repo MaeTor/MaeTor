@@ -67,10 +67,11 @@ function getDBNWSentence() {
 const timeUntilNewYear = nextYearDate.getTime() - today.getTime();
 const dayUntilNewYear = Math.round(timeUntilNewYear / msInOneDay);
 
-return `**${dayUntilNewYear} day before ${nextYear} ⏱**`;
+return `**${dayUntilNewYear} days before ${nextYear} ⏱**`;
 }
 
 const findIdentifierIndex = (rows, identifier) =>
+    //Cette fonction fléchée est utilisée comme callback pour évaluer chaque ligne r.
     rows.findIndex((r) => Boolean(r.match(new RegExp(`<#${identifier}>`, 'i'))));
 
 const updateREADMEFile = (text) => fs.writeFile('./README.md', text);
