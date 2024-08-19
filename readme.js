@@ -15,3 +15,7 @@ module.exports += `
 module.exports += `
 | ![Flask](https://img.icons8.com/?size=45&id=uJM6fQYqDaZK&format=png&color=000000.png) Typescript | ![Laravel](https://img.icons8.com/?size=40&id=lRjcvhvtR81o&format=png&color=000000) Laravel |
 `;
+
+module.exports += `
+| ![Java](https://img.icons8.com/?size=48&id=lTKW3iI3wIT0&format=png&color=0000000) Java | ![Symfony](https://img.icons8.com/?size=40&id=eXY8XFlpbTUt&format=png&color=000000) Symfony |
+`;
