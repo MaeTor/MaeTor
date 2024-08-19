@@ -19,3 +19,9 @@ module.exports += `
 module.exports += `
 | ![Java](https://img.icons8.com/?size=48&id=lTKW3iI3wIT0&format=png&color=0000000) Java | ![Symfony](https://img.icons8.com/?size=40&id=eXY8XFlpbTUt&format=png&color=000000) Symfony |
 `;
+
+module.exports += `
+## Operating Systems
+|   Linux   |   Windows  |    Ubuntu  |  Kali  |  ParrotOS  |
+|:---------:|:----------:|:----------:|:----------:|:---------:|
+`;
