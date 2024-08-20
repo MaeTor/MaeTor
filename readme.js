@@ -40,3 +40,8 @@ Last update on <#today_date>
 module.exports += `
 **<#day_before_new_years>**
 `;
+
+module.exports += `
+🤖 This README.md is updated with <#rico_signing>
+`;
+
