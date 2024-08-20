@@ -36,3 +36,7 @@ module.exports += `
 module.exports += `
 Last update on <#today_date>
 `;
+
+module.exports += `
+**<#day_before_new_years>**
+`;
