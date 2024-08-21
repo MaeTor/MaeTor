@@ -47,3 +47,5 @@ module.exports += `
 module.exports += `
 `;
 
+module.exports = module.exports.replace("<#today_date>", getTodayDate());
+
