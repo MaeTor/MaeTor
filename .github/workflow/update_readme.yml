@@ -10,3 +10,7 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
+strategy:
+  matrix:
+    node-version: [14.x]
