@@ -21,4 +21,9 @@ steps:
     uses: actions/setup-node@v3
     with:
       node-version: ${{ matrix.node-version }}
+  - name: Update README.md file
+    run: |
+      node index.js > README.md
+    env:
+      CI: true
 
