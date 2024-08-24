@@ -26,4 +26,14 @@ steps:
       node index.js > README.md
     env:
       CI: true
+  - name: commit changes
+    uses: EndBug/add-and-commit@v4
+    with:
+      author_name: MaeTor
+      author_email: mael.torregrosa@etu.univ-amu.fr
+      force: false
+      signoff: false
+      message: ':memo: README.md updated by Rico'
+
+      
 
