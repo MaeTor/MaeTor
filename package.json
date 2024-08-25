@@ -1,0 +1,19 @@
+{
+  "name": "maetor",
+  "version": "1.0.0",
+  "description": "I represent myself as a penguin 🐧 and I live in the Pacific Ocean as otter 🦦. Web, mobile backend, I try to touch everything. I prefer the web for now.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaeTor/MaeTor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaeTor/MaeTor/issues"
+  },
+  "homepage": "https://github.com/MaeTor/MaeTor#readme"
+}
