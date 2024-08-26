@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MaeTor/MaeTor/issues"
   },
-  "homepage": "https://github.com/MaeTor/MaeTor#readme"
+  "homepage": "https://github.com/MaeTor/MaeTor#readme",
+  "devDependencies": {
+    "eslint": "^9.10.0"
+  }
 }
