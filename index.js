@@ -10,6 +10,7 @@ function generateNewREADME() {
     const readmeRow = readme.split('\n');
     function updateIdentifier(identifier, replaceText) {
         const identifierIndex = findIdentifierIndex(readmeRow, identifier);
+        if (!readmeRow[identifierIndex]) return;
 
 
 }
