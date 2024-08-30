@@ -6,3 +6,6 @@ const msInOneDay = 1000 * 60 * 60 * 24;
 const today = new Date();
 
 function generateNewREADME() {
+
+    const readmeRow = readme.split('\n');
+}
