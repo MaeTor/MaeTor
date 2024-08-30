@@ -8,4 +8,6 @@ const today = new Date();
 function generateNewREADME() {
 
     const readmeRow = readme.split('\n');
+    function updateIdentifier(identifier, replaceText) {
+
 }
