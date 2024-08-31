@@ -8,6 +8,7 @@ const today = new Date();
 function generateNewREADME() {
 
     const readmeRow = readme.split('\n');
+    // updateIdentifier remplace un identifiant dans readmeRow par un texte donné
     function updateIdentifier(identifier, replaceText) {
         const identifierIndex = findIdentifierIndex(readmeRow, identifier);
         if (!readmeRow[identifierIndex]) return;
