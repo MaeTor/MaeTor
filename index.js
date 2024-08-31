@@ -11,6 +11,11 @@ function generateNewREADME() {
     function updateIdentifier(identifier, replaceText) {
         const identifierIndex = findIdentifierIndex(readmeRow, identifier);
         if (!readmeRow[identifierIndex]) return;
+        readmeRow[identifierIndex] = readmeRow[identifierIndex].replace(
+            `<#${identifier}>`,
+            replaceText
+        );
+    
 
 
 }
