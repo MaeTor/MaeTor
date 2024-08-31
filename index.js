@@ -15,7 +15,7 @@ function generateNewREADME() {
             `<#${identifier}>`,
             replaceText
         );
-    
+    }
 
 
 }
