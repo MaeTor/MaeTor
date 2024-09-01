@@ -3,3 +3,5 @@
 </p>
 
 ## Operating Systems
+|   Linux   |   Ubuntu   |    Kali    |  ParrotOS  |  Windows  |
+|:---------:|:----------:|:----------:|:----------:|:---------:|
