@@ -3,7 +3,7 @@
 </p>
 
 ## Operating Systems
-|   Linux   |   Windows  |    Kali    |  ParrotOS  |  Ubuntu  |
+|   Linux   |   Windows  |    Ubuntu  |  Kali  |  ParrotOS  |
 |:---------:|:----------:|:----------:|:----------:|:---------:|
 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>
