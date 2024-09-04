@@ -6,9 +6,12 @@
 | Langages | Frameworks |
 | --- | --- |
 
+
 ## Operating Systems
 |   Linux   |   Windows  |    Ubuntu  |  Kali  |  ParrotOS  |
 |:---------:|:----------:|:----------:|:----------:|:---------:|
+| ![Python](https://img.icons8.com/color/48/000000/python.png) Python | 
+
 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>
 | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="55" height="55"/> 
