@@ -6,6 +6,7 @@
 | Langages | Frameworks |
 | --- | --- |
 | ![Python](https://img.icons8.com/color/48/000000/python.png) Python | ![Django](https://img.icons8.com/color/48/000000/django.png) Django |
+| ![php](https://img.icons8.com/?size=47&id=fAMVO_fuoOuC&format=png&color=000000) PHP |
 
 ## Operating Systems
 |   Linux   |   Windows  |    Ubuntu  |  Kali  |  ParrotOS  |
