@@ -5,12 +5,11 @@
 ## Langages and Frameworks
 | Langages | Frameworks |
 | --- | --- |
-
+| ![Python](https://img.icons8.com/color/48/000000/python.png) Python | ![Django](https://img.icons8.com/color/48/000000/django.png) Django |
 
 ## Operating Systems
 |   Linux   |   Windows  |    Ubuntu  |  Kali  |  ParrotOS  |
 |:---------:|:----------:|:----------:|:----------:|:---------:|
-| ![Python](https://img.icons8.com/color/48/000000/python.png) Python | 
 
 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>
