@@ -8,6 +8,7 @@
 | ![Python](https://img.icons8.com/color/48/000000/python.png) Python | ![Django](https://img.icons8.com/color/48/000000/django.png) Django |
 | ![php](https://img.icons8.com/?size=47&id=fAMVO_fuoOuC&format=png&color=000000) PHP | ![Flask](https://img.icons8.com/color/48/000000/flask.png) Flask | | ![Python](https://img.icons8.com/color/48/000000/python.png) Python | 
 | ![Flask](https://img.icons8.com/?size=45&id=uJM6fQYqDaZK&format=png&color=000000) Typescript | ![Laravel](https://icons8.com/icon/lRjcvhvtR81o/laravel) Laravel | 
+| ![Symfony](https://icons8.com/icon/78295/symfony) Symfony |
 
 
 ## Operating Systems
