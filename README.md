@@ -7,8 +7,8 @@
 | --- | --- |
 | ![Python](https://img.icons8.com/color/48/000000/python.png) Python | ![Django](https://img.icons8.com/color/48/000000/django.png) Django |
 | ![php](https://img.icons8.com/?size=47&id=fAMVO_fuoOuC&format=png&color=000000) PHP | ![Flask](https://img.icons8.com/color/48/000000/flask.png) Flask | | ![Python](https://img.icons8.com/color/48/000000/python.png) Python | 
-| ![Flask](https://img.icons8.com/?size=45&id=uJM6fQYqDaZK&format=png&color=000000.png) Typescript | ![Laravel](https://icons8.com/icon/lRjcvhvtR81o/laravel.png) Laravel | ![Java](https://icons8.com/icon/13679/java) Java 
-| |![Symfony](https://icons8.com/icon/78295/symfony.png) Symfony |
+| ![Flask](https://img.icons8.com/?size=45&id=uJM6fQYqDaZK&format=png&color=000000.png) Typescript | ![Laravel](https://img.icons8.com/?size=40&id=lRjcvhvtR81o&format=png&color=000000) Laravel | ![Java](https://img.icons8.com/?size=52&id=13679&format=png&color=000000)       Java 
+| |![Symfony](https://img.icons8.com/?size=40&id=eXY8XFlpbTUt&format=png&color=000000) Symfony |
 
 
 ## Operating Systems
