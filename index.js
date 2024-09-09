@@ -63,6 +63,10 @@ function getDBNWSentence() {
     const nextYear = today.getFullYear() + 1;
     const nextYearDate = new Date(String(nextYear));
 }
+
+const timeUntilNewYear = nextYearDate.getTime() - today.getTime();
+const dayUntilNewYear = Math.round(timeUntilNewYear / msInOneDay);
+
   
 
 
