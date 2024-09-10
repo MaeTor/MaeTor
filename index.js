@@ -24,5 +24,10 @@ function generateNewREADME() {
         rico_signing: getRicoSigning(),
       };
 
+      Object.entries(identifierToUpdate).forEach(([key, value]) => {
+        updateIdentifier(key, value);
+    });
+    
+
 
 }
