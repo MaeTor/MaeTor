@@ -18,5 +18,11 @@ function generateNewREADME() {
         );
     }
 
+    const identifierToUpdate = {
+        day_before_new_years: getDBNWSentence(),
+        today_date: getTodayDate(),
+        rico_signing: getRicoSigning(),
+      };
+
 
 }
