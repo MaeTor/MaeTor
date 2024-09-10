@@ -27,7 +27,7 @@ function generateNewREADME() {
       Object.entries(identifierToUpdate).forEach(([key, value]) => {
         updateIdentifier(key, value);
     });
-    
 
-
+    return readmeRow.join('\n');
 }
+
