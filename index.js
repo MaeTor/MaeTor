@@ -41,3 +41,8 @@ const moodByDay = {
     7: 'love',
 };
 
+function getRicoSigning() {
+    const mood = moodByDay[today.getDay() + 1];
+    return `🤖 This README.md is updated with ${mood}, by Rico !`;
+}
+
