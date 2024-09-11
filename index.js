@@ -50,4 +50,8 @@ function getTodayDate() {
     return today.toDateString();
 }
 
+function getMySelf() {
+    // test if we are in a PAIR DAY
+}
+
 
