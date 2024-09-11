@@ -46,3 +46,8 @@ function getRicoSigning() {
     return `🤖 This README.md is updated with ${mood}, by Rico !`;
 }
 
+function getTodayDate() {
+    return today.toDateString();
+}
+
+
