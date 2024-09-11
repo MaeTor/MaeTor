@@ -31,3 +31,13 @@ function generateNewREADME() {
     return readmeRow.join('\n');
 }
 
+const moodByDay = {
+    1: 'hate',
+    2: 'wickedness',
+    3: 'pleasure',
+    4: 'wickedness',
+    5: 'cruelty',
+    6: 'horror',
+    7: 'love',
+};
+
