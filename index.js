@@ -70,6 +70,10 @@ const dayUntilNewYear = Math.round(timeUntilNewYear / msInOneDay);
 return `**${dayUntilNewYear} day before ${nextYear} ⏱**`;
 }
 
+const findIdentifierIndex = (rows, identifier) =>
+    rows.findIndex((r) => Boolean(r.match(new RegExp(`<#${identifier}>`, 'i'))));
+  
+
   
 
 
