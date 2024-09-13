@@ -74,6 +74,11 @@ const findIdentifierIndex = (rows, identifier) =>
     rows.findIndex((r) => Boolean(r.match(new RegExp(`<#${identifier}>`, 'i'))));
 
 const updateREADMEFile = (text) => fs.writeFile('./README.md', text);
+
+function main() {
+    const newREADME = generateNewREADME();
+  }
+  
   
 
   
