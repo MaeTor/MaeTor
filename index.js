@@ -72,6 +72,8 @@ return `**${dayUntilNewYear} day before ${nextYear} ⏱**`;
 
 const findIdentifierIndex = (rows, identifier) =>
     rows.findIndex((r) => Boolean(r.match(new RegExp(`<#${identifier}>`, 'i'))));
+
+const updateREADMEFile = (text) => fs.writeFile('./README.md', text);
   
 
   
