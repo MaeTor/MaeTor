@@ -78,7 +78,7 @@ const updateREADMEFile = (text) => fs.writeFile('./README.md', text);
 function main() {
     const newREADME = generateNewREADME();
     console.log(newREADME);
-
+    updateREADMEFile(newREADME);
   }
 
 
