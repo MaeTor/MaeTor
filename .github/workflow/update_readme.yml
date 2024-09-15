@@ -18,6 +18,7 @@ strategy:
     node-version: [20.x]
 
 steps:
+ #Cette action installe la version de Node.js spécifiée dans matrix.node-version avant d'exécuter les autres étapes.
   - uses: actions/checkout@v3
   - name: Use Node.js ${{ matrix.node-version }}
     uses: actions/setup-node@v3
