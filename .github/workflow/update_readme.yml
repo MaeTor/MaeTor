@@ -9,6 +9,8 @@ on:
 
 jobs:
   update-readme:
+  #Cela indique à GitHub Actions d'utiliser un serveur virtuel géré par GitHub
+  #(un "runner" qui exécute le code dans un environnement Linux) => GitHub-hosted runner.
     runs-on: ubuntu-latest
 
 strategy:
