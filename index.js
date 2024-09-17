@@ -23,6 +23,7 @@ function generateNewREADME() {
         today_date: getTodayDate(),
         rico_signing: getRicoSigning(),
       };
+      
 
       Object.entries(identifierToUpdate).forEach(([key, value]) => {
         updateIdentifier(key, value);
