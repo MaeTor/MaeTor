@@ -11,37 +11,37 @@ jobs:
   update-readme:
   #Cela indique à GitHub Actions d'utiliser un serveur virtuel géré par GitHub
   #(un "runner" qui exécute le code dans un environnement Linux) => GitHub-hosted runner.
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest #le runner utilisé
 
-strategy:
-  matrix:
-    node-version: [20.x]
+    strategy:
+      matrix:
+        node-version: [20.x]
 
-steps:
- #Cette action installe la version de Node.js spécifiée dans matrix.node-version avant d'exécuter les autres étapes.
-  - uses: actions/checkout@v3
-  - name: Use Node.js ${{ matrix.node-version }}
-  # Cette action installe et configure la version spécifiée de Node.js
-  # à partir de la clé 'node-version'
-    uses: actions/setup-node@v3
-    with:
-      node-version: ${{ matrix.node-version }}
-  - name: Update README.md file
-    run: |
-      node index.js > README.md
-    env:
-      CI: true
-  - name: commit changes
-    uses: EndBug/add-and-commit@v4
-    with:
-      author_name: MaeTor
-      author_email: mael.torregrosa@etu.univ-amu.fr
-      force: false
-      signoff: false
-      message: ':memo: README.md updated by Rico'
-    env:
-      # This is necessary in order to push a commit to the repo
-      GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+    steps:
+      #Cette action installe la version de Node.js spécifiée dans matrix.node-version avant d'exécuter les autres étapes.
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+      # Cette action installe et configure la version spécifiée de Node.js
+      # à partir de la clé 'node-version'
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Update README.md file
+        run: |
+          node index.js > README.md
+        env:
+          CI: true
+      - name: commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: MaeTor
+          author_email: mael.torregrosa@etu.univ-amu.fr
+          force: false
+          signoff: false
+          message: ':memo: README.md updated by Rico'
+        env:
+          # This is necessary in order to push a commit to the repo
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
 
       
