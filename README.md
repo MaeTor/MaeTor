@@ -25,6 +25,6 @@
 
 Last update on Wed Sep 18 2024
 
-105 days before new year
+<#days_before_new_years> days before new year
 
 🤖 This README.md is updated with wickedness, by Rico !
