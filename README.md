@@ -23,8 +23,8 @@
 | <img src="https://github.com/ParrotSec/parrot-themes/blob/master/icons/parrot-logo.png" title="ParrotOS" alt="ParrotOS" width="55" height="55"/>
 |
 
-Last update on Sat Nov 30 2024
+Last update on Sun Dec 01 2024
 
 <#days_before_new_years> days before new year
 
-🤖 This README.md is updated with love, by Rico !
+🤖 This README.md is updated with hate, by Rico !
