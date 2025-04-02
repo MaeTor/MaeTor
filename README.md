@@ -23,7 +23,7 @@
 | <img src="https://github.com/ParrotSec/parrot-themes/blob/master/icons/parrot-logo.png" title="ParrotOS" alt="ParrotOS" width="55" height="55"/>
 |
 
-Last update on Mon Mar 31 2025
+Last update on Wed Apr 02 2025
 
 <#days_before_new_years> days before new year
 
